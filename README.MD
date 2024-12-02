@@ -22,3 +22,6 @@ This activator can activate alot of diferent Microsoft products for free
 
 
 If you would like to host your own KMS server visit https://au.ldtp.com/kms/server/ and follow the instructions only available to host on Linux
+
+###
+Thanks to [@Wind4](https://github.com/Wind4) for the KMS server
