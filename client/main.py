@@ -3,7 +3,7 @@ import requests
 import time
 import platform
 code = ""
-url = 'https://au.ldtp.com/kms/reg.php?code='
+url = 'https://yourwebsite.com/reg.php?code='
 key = ""
 
 def code_input():
@@ -30,7 +30,7 @@ def get_key():
         time.sleep(2)
         code_input()
     elif key == "002":
-        print("This code has already been used please contact fonoxy1@gmail.com to get a new code.")
+        print("This code has already been used please contact youremail@gmail.com to get a new code.")
         time.sleep(2)
         code_input()
     elif key == "003":
@@ -60,7 +60,7 @@ def user_info():
         else:
             if response == "No" or "no" or "n":
                 os.system("cls")
-                print("Please conact fonoxy1@gmail.com for the correct code.")
+                print("Please conact youremail@gmail.com for the correct code.")
                 time.sleep(2) 
 def activate():
     os.system(f"slmgr.vbs -ipk {key}")
