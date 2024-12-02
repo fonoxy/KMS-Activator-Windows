@@ -1,6 +1,6 @@
 Windows Activator
 ================
-This activator can activate alot of diferent windows products
+This activator can activate alot of diferent Microsoft products for free
 
 ### Windows
 - Windows 11
