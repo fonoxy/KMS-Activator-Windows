@@ -1,7 +1,7 @@
 Windows Activator
 ================
-This activator can activate alot of diferent Microsoft products for free
 
+These are the currenlty supported Windows versions this product can activate
 ### Windows
 - Windows 11
 - Windows 10
@@ -12,14 +12,6 @@ This activator can activate alot of diferent Microsoft products for free
 - Windows Server 2016
 - Windows Server 2012
 - Windows Server 2008
-
-### Office 365
-- Office LTSC 2021
-- Office 2019
-- Office 2016
-- Office 2013
-- Office 2010
-
 
 If you would like to host your own KMS server visit https://au.ldtp.com/kms/server/ and follow the instructions
 
