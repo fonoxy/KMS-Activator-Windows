@@ -39,6 +39,7 @@ def get_key():
         code_input()
     else:
         user_info()
+
 def user_info():
     global url
     url = url+"&json=true"
@@ -62,6 +63,7 @@ def user_info():
                 os.system("cls")
                 print("Please conact youremail@gmail.com for the correct code.")
                 time.sleep(2) 
+                
 def activate():
     os.system(f"slmgr.vbs -ipk {key}")
     print("KMS key set succesfully")
