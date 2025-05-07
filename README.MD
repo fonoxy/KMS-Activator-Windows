@@ -1,7 +1,8 @@
-Windows Activator
+Windows Activator (With control panel)
 ================
 
 These are the currenlty supported Windows versions this product can activate
+This product is made so when somone logs into the admin control panel they can issue a 6 digit code to a user and then that user can use that code to activate a specific version of windows as the admin wants them if you want to have a single exe for use then checkout [Windows Activator (Single file)](./)
 ### Windows
 - Windows 11
 - Windows 10
