@@ -67,7 +67,7 @@ def user_info():
 def activate():
     os.system(f"slmgr.vbs -ipk {key}")
     print("KMS key set succesfully")
-    os.system("slmgr.vbs -skms au.ldtp.com")
+    os.system("slmgr.vbs -skms home.nerdtown.cc")
     print("KMS Host set succesfully")
     os.system("slmgr.vbs -ato")
     print("Windows Activated Succesfully \nThis window will close in 3 seconds")

@@ -14,7 +14,7 @@ This product is made so when somone logs into the admin control panel they can i
 - Windows Server 2012
 - Windows Server 2008
 
-If you would like to host your own KMS server visit https://au.ldtp.com/kms/server/ and follow the instructions
+If you would like to host your own KMS server visit https://home.nerdtown.cc/kms/server/ and follow the instructions
 When running the client make sure it is run as an administrator otherwise it will fail activation and installation.
 ###
 Thanks to [@Wind4](https://github.com/Wind4) for the KMS server
